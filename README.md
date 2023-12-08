@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Anton 👋
+
+- :computer: Data Science enthusiast
+- :chart_with_upwards_trend: Crypto market analyst
+- :books: Never stop learning
 
 <!--
 **AntonBaranovskii/AntonBaranovskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
